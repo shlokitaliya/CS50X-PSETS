@@ -1,0 +1,12 @@
+sort1 uses: Bubble sort
+
+How do you know?: the time period for sorted.txt is very low compared to the reversed andrandom and hence only buuble sort has a best case scenario omega n different so it finishes early unlike others.
+
+sort2 uses: Merge sort
+
+How do you know?: here all the files random , reversed and sorted took almost the same time to compile and compared to sort3 the time period was almost half so the merge sort has less time complexity of O(nlogn) compared to selection sort.
+
+
+sort3 uses: Selection sort
+
+How do you know?:  here all the files random , reversed and sorted took almost the same time to compile and compared to sort3 the time period was almost double so the selection sort has more time complexity of O(n2) compared to merge sort.
