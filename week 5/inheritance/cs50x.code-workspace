@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"gitdoc.enabled": true,
+		"files.associations": {
+			"cmath": "c"
+		}
+	}
+}
