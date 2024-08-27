@@ -1,0 +1,10 @@
+HTML tags: div , strong , p , span , header , bold , main , h1 , br , a .
+CSS properties:  display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                height: 100vh;
+                background-color: lightblue;
+                text-align:center;
+
+java script: i have used simple javascript alert funvction to guide the user that they are gonna star a new chapter of the journey and the onclick attribute is used to make this happen and the window.alert function is used in this.
